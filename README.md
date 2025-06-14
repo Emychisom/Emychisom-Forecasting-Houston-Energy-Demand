@@ -39,12 +39,16 @@ We used **Facebook Prophet** for time series forecasting:
 - Visualized the forecast with confidence intervals.
 
 
-## 🖼️ Visualizations
+## Visualizations
 
-![Houston_temperature_&_forecast_load_over_time]((Houston_temperature_&_forecast_load_over_time.png))
-![ERCOT_hourly_total_actual_load](ERCOT_hourly_total_actual_load.png)
-![Total_actual_load](Total_actual_load(MW).png)
-Prophet forecast visualization
+### ERCOT Hourly Total Actual Load
+![ERCOT Load](plots/ERRCOT_hour_total_actul_load.png)
+
+### Total Actual Load (MW)
+![Total Load](plots/Total_actual_load(MW).png)
+
+### Houston Temperature & Forecasted Load Over Time
+![Temp & Forecast](plots/Houston_temperature_&_forecast_load_over_time.png)
 
 
 ## 📌 Sample Code Snippet
